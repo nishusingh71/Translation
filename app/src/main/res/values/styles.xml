@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string-array name="language">
+        <item>ES</item>
+        <item>EL</item>
+        <item>EO</item>
+        <item>ET</item>
+        <item>BE</item>
+        <item>HE</item>
+        <item>DE</item>
+        <item>TE</item>
+        <item>UK</item>
+        <item>UR</item>
+        <item>GU</item>
+        <item>Hu</item>
+        <item>RU</item>
+        <item>LT</item>
+        <item>TL</item>
+    </string-array>
+
+</resources>
